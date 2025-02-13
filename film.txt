@@ -1,0 +1,10 @@
+Gladiator,drama
+A Beautiful Mind,drama
+Chicago,drama
+The Lord of the Rings: The Return of the King,fantastic
+Million Dollar Baby,drama
+Crash,crime
+The Departed,crime
+No Country for Old Men,western
+Slumdog Millionaire,drama
+The Hurt Locker,war
